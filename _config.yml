@@ -1,25 +1,41 @@
 title: EBYTE Tech Blog
 tagline: 工业物联网无线通信技术分享
-description: EBYTE 技术博客，分享 LoRa、WiFi、BLE、ZigBee 等无线通信模块的选型指南、应用方案和配置教程。
-url: "https://ebyte.github.io"
+description: EBYTE 技术博客
+url: "https://ebyteiot.github.io"
 baseurl: ""
+
+# 主题
 theme: jekyll-theme-chirpy
+
+# 语言
 lang: zh-CN
 timezone: Asia/Shanghai
+
+# 作者
 author:
   name: EBYTE
-  email: support@cdebyte.com
+  email: service@cdebyte.com
+
+# 社交
 social:
   name: EBYTE
   links:
-    - https://github.com/ebyte
-permalink: /posts/:title/
+    - https://github.com/ebyteiot
+
+# 文章链接格式
+permalink: /:year/:month/:day/:title/
+
+# 分页
 paginate: 10
+
+# 插件
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
+
+# 默认设置
 defaults:
   - scope:
       path: ""
