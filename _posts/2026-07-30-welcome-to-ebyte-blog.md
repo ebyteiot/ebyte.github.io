@@ -33,5 +33,5 @@ EBYTE 技术博客正式上线！我们将在这里分享工业物联网无线�
 
 ## 联系我们
 
-邮箱：[support@cdebyte.com](mailto:support@cdebyte.com)
-官网：[www.ebyte.com](https://www.ebyte.com)
+邮箱：[service@cdebyte.com](mailto:service@cdebyte.com)
+官网：[www.cdebyte.com](https://www.cdebyte.com)
